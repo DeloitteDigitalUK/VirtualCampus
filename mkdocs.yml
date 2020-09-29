@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: virtualcampus
+theme:
+    name: readthedocs
+nav:
+    - Installation: index.md
+    - Tips: tips.md
