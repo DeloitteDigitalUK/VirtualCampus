@@ -1,2 +1,4 @@
 
-[## FACILITATOR HANDBOOK](facilitator.md)
+[FACILITATOR HANDBOOK](facilitator.md)
+
+[VISITOR HANDBOOK](handbook.md)
